@@ -59,12 +59,20 @@
 				BC6780DA1D2E3F5F006BBCAA /* AppDelegate.swift */,
 				BC6780DC1D2E3F5F006BBCAA /* ViewController.swift */,
 				BC6780DE1D2E3F5F006BBCAA /* Main.storyboard */,
-				BC6780E41D2E3F5F006BBCAA /* Assets.xcassets */,
-				BC6780E61D2E3F5F006BBCAA /* LaunchScreen.storyboard */,
-				BC6780E91D2E3F5F006BBCAA /* Info.plist */,
+				BC6780EF1D2E3F84006BBCAA /* Supporting file */,
 				BC6780E11D2E3F5F006BBCAA /* ProjectDemo.xcdatamodeld */,
 			);
 			path = ProjectDemo;
+			sourceTree = "<group>";
+		};
+		BC6780EF1D2E3F84006BBCAA /* Supporting file */ = {
+			isa = PBXGroup;
+			children = (
+				BC6780E41D2E3F5F006BBCAA /* Assets.xcassets */,
+				BC6780E61D2E3F5F006BBCAA /* LaunchScreen.storyboard */,
+				BC6780E91D2E3F5F006BBCAA /* Info.plist */,
+			);
+			name = "Supporting file";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
